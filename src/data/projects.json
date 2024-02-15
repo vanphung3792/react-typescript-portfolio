@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Learning English App",
+        "technologies": ["React", "TypeScript", "Tailwinds"],
+        "url": "https://example.com/ecommerce",
+        "imgUrl": "/portfolio/workInProgress.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Calculator App",
+        "technologies": ["React", "Tailwinds"],
+        "url": "https://example.com/landing-page",
+        "imgUrl": "/portfolio/calculatorApp.jpg"
+    },
+    {
+        "id": 3,
+        "title": "To-Do List",
+        "technologies": ["React", "TypeScript", "Tailwinds"],
+        "url": "https://example.com/todo-list",
+        "imgUrl": "/portfolio/todoList.jpg"
+    }
+]
