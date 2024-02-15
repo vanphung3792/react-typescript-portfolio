@@ -16,8 +16,8 @@
     {
         "id": 3,
         "title": "To-Do List",
-        "technologies": ["React", "TypeScript", "Tailwinds"],
-        "url": "https://example.com/todo-list",
+        "technologies": ["React", "JavaScript"],
+        "url": "https://github.com/vanphung3792/todo-list",
         "imgUrl": "/portfolio/todoList.jpg"
     }
 ]
