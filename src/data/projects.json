@@ -1,23 +1,29 @@
 [
     {
         "id": 1,
-        "title": "Learning English App",
-        "technologies": ["React", "TypeScript", "Tailwinds"],
-        "url": "https://example.com/ecommerce",
-        "imgUrl": "/portfolio/workInProgress.jpg"
+        "title": "To-Do List",
+        "description": "A basic to-do list app implemented with React and JavaScript.",
+        "technologies": ["React", "JavaScript"],
+        "url": "https://vanphung3792.github.io/todo-list/",
+        "imgUrl": "/portfolio/todoList.jpg",
+        "ghUrl": "https://github.com/vanphung3792/todo-list"
     },
     {
         "id": 2,
         "title": "Calculator App",
+        "description": "A simple calculator app built using React.",
         "technologies": ["React", "Tailwinds"],
-        "url": "https://example.com/landing-page",
-        "imgUrl": "/portfolio/calculatorApp.jpg"
+        "url": "",
+        "imgUrl": "",
+        "ghUrl": ""
     },
     {
         "id": 3,
-        "title": "To-Do List",
-        "technologies": ["React", "JavaScript"],
-        "url": "https://github.com/vanphung3792/todo-list",
-        "imgUrl": "/portfolio/todoList.jpg"
+        "title": "Learning English App",
+        "description": "An app for learning English vocabulary and grammar.",
+        "technologies": ["React", "TypeScript", "Tailwinds"],
+        "url": "",
+        "imgUrl": "",
+        "ghUrl": "https://github.com/vanphung3792/learning-english-app"
     }
 ]

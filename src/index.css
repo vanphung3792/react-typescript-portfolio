@@ -7,43 +7,55 @@ html {
 }
 
 h2 {
-    @apply
-    text-black
+    @apply text-black
     font-sans
     font-semibold
     text-xl
     uppercase
-    xl:text-3xl
+    xl:text-3xl;
 }
 
 h3 {
-    @apply
-    text-primary
+    @apply text-primary
     font-hand
     font-bold
     text-3xl
     lowercase
-    xl:text-4xl
+    xl:text-4xl;
 }
 
 h4 {
-    @apply
-    text-primary
+    @apply text-primary
     font-sans
     font-bold
     uppercase
     mt-2
     mb-2
-    xl:text-2xl
+    xl:text-2xl;
 }
 
 .button {
-    @apply
-    bg-primary
+    @apply bg-primary
     text-white
     font-light
     text-sm
     py-[4px]
     px-4
+    rounded-3xl;
+}
+
+.link-btn:hover {
+    @apply bg-primary
+    text-white
+    border-2
+    border-primary
+    transition-all;
+}
+
+.btn-secondary {
+    @apply border-2
+    border-primary
     rounded-3xl
+    text-primary
+    px-4;
 }
