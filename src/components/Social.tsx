@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom';
-
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 const Social = () => {
