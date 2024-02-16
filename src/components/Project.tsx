@@ -10,6 +10,7 @@ type ProjectProps = {
 };
 
 const Project = ({ item }: ProjectProps) => {
+    console.log(item.imgUrl);
     return (
         <div
             className="
@@ -36,7 +37,7 @@ const Project = ({ item }: ProjectProps) => {
             <img
                 src={
                     item.imgUrl === ''
-                        ? '../assets/portfolio/todoList.jpg'
+                        ? './portfolio/workInProgress.jpg'
                         : item.imgUrl
                 }
                 alt={item.title}

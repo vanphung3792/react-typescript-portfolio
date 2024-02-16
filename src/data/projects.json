@@ -5,7 +5,7 @@
         "description": "A basic to-do list app implemented with React and JavaScript.",
         "technologies": ["React", "JavaScript"],
         "url": "https://vanphung3792.github.io/todo-list/",
-        "imgUrl": "../assets/portfolio/todoList.jpg",
+        "imgUrl": "./portfolio/todoList.jpg",
         "ghUrl": "https://github.com/vanphung3792/todo-list"
     },
     {

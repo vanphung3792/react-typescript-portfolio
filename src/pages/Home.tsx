@@ -1,9 +1,9 @@
-import myImg from "../assets/myImg.jpg";
+import myImg from '../assets/myImg.jpg';
 
 const Home = () => {
-  return (
-    <div
-      className="
+    return (
+        <div
+            className="
         bg-light
         min-h-screen
         flex
@@ -11,10 +11,10 @@ const Home = () => {
         justify-center
         items-center
       "
-      id="home"
-    >
-      <div
-        className="
+            id="home"
+        >
+            <div
+                className="
           flex
           flex-col
           gap-4
@@ -28,9 +28,9 @@ const Home = () => {
           lg:pt-0
           lg:pb-20
         "
-      >
-        <div
-          className="
+            >
+                <div
+                    className="
             h-full
             flex
             flex-col
@@ -38,9 +38,9 @@ const Home = () => {
             lg:pt-24
             xl:pt-44
           "
-        >
-          <h2
-            className="
+                >
+                    <h2
+                        className="
               underline
               text-dark 
               font-medium 
@@ -48,11 +48,11 @@ const Home = () => {
               md:mt-16
               lg:text-2xl
             "
-          >
-            HELLO
-          </h2>
-          <h1
-            className="
+                    >
+                        HELLO
+                    </h2>
+                    <h1
+                        className="
               text-dark
               font-thin
               text-2xl
@@ -60,11 +60,11 @@ const Home = () => {
               lg:text-4xl
               lg:mt-8
             "
-          >
-            I'm
-          </h1>
-          <div
-            className="
+                    >
+                        I'm
+                    </h1>
+                    <div
+                        className="
               text-primary
               font-bold
               text-7xl
@@ -72,12 +72,12 @@ const Home = () => {
               lg:text-8xl
               lg:mt-8
             "
-          >
-            <h1>ANN</h1>
-            <h1>PHUNG</h1>
-          </div>
-          <p
-            className="
+                    >
+                        <h1>ANN</h1>
+                        <h1>PHUNG</h1>
+                    </div>
+                    <p
+                        className="
               text-dark
               text-xs
               mt-2
@@ -87,17 +87,17 @@ const Home = () => {
               w-[fit-content]
               lg:text-base
             "
-          >
-            a web designer and developer
-          </p>
-        </div>
-        <div
-          className="
+                    >
+                        a web designer and developer
+                    </p>
+                </div>
+                <div
+                    className="
             xl:w-[500px]
           "
-        >
-          <img 
-            className="
+                >
+                    <img
+                        className="
               w-[100%]
               bg-primary
               pl-2
@@ -109,11 +109,12 @@ const Home = () => {
               shadow-primary
               mt-8
             "
-            src={myImg} alt="my image" 
-          />
+                        src={myImg}
+                        alt="my image"
+                    />
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-  );
+    );
 };
 export default Home;
