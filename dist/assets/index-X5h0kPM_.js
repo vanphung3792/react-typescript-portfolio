@@ -301,7 +301,7 @@ Error generating stack: `+i.message+`
                 md:w-[95%]\r
                 lg:w-[85%]\r
                 xl:w-[90%]\r
-            `,children:[h.jsx("img",{src:e.imgUrl===""?"../assets/portfolio/todoList.jpg":e.imgUrl,alt:e.title,className:`\r
+            `,children:[h.jsx("img",{src:e.imgUrl===""?"../../assets/portfolio/workInProgess.jpg":e.imgUrl,alt:e.title,className:`\r
                     rounded-t-lg\r
                     border-b-2\r
                     border-primary\r
