@@ -301,7 +301,7 @@ Error generating stack: `+i.message+`
                 md:w-[95%]\r
                 lg:w-[85%]\r
                 xl:w-[90%]\r
-            `,children:[h.jsx("img",{src:e.imgUrl===""?"./portfolio/workInProgress.jpg":e.imgUrl,alt:e.title,className:`\r
+            `,children:[h.jsx("img",{src:e.imgUrl===""?"./images/portfolio/workInProgress.jpg":e.imgUrl,alt:e.title,className:`\r
                     rounded-t-lg\r
                     border-b-2\r
                     border-primary\r
@@ -326,7 +326,7 @@ Error generating stack: `+i.message+`
                         flex-row\r
                         gap-2\r
                         flex-wrap\r
-                    `,children:e.technologies.map((n,t)=>h.jsx("span",{className:"button",children:n},t))})]})]})),gp=[{id:1,title:"To-Do List",description:"A basic to-do list app implemented with React and JavaScript.",technologies:["React","JavaScript"],url:"https://vanphung3792.github.io/todo-list/",imgUrl:"./portfolio/todoList.jpg",ghUrl:"https://github.com/vanphung3792/todo-list"},{id:2,title:"Calculator App",description:"A simple calculator app built using React.",technologies:["React","Tailwinds"],url:"",imgUrl:"",ghUrl:""},{id:3,title:"Learning English App",description:"An app for learning English vocabulary and grammar.",technologies:["React","TypeScript","Tailwinds"],url:"",imgUrl:"",ghUrl:"https://github.com/vanphung3792/learning-english-app"}],yp=()=>h.jsxs("div",{id:"portfolio",className:`\r
+                    `,children:e.technologies.map((n,t)=>h.jsx("span",{className:"button",children:n},t))})]})]})),gp=[{id:1,title:"To-Do List",description:"A basic to-do list app implemented with React and JavaScript to learn using useReducer hook.",technologies:["React","JavaScript"],url:"https://vanphung3792.github.io/todo-list/",imgUrl:"./images/portfolio/todoList.jpg",ghUrl:"https://github.com/vanphung3792/todo-list"},{id:2,title:"Calculator App",description:"A simple calculator app built using React.",technologies:["React","Tailwinds"],url:"",imgUrl:"",ghUrl:""},{id:3,title:"Learning English App",description:"An app for learning English vocabulary and grammar.",technologies:["React","TypeScript","Tailwinds"],url:"",imgUrl:"",ghUrl:"https://github.com/vanphung3792/learning-english-app"}],yp=()=>h.jsxs("div",{id:"portfolio",className:`\r
                 flex\r
                 flex-col\r
                 items-center\r
