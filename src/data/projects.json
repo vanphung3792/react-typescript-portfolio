@@ -2,10 +2,10 @@
     {
         "id": 1,
         "title": "To-Do List",
-        "description": "A basic to-do list app implemented with React and JavaScript.",
+        "description": "A basic to-do list app implemented with React and JavaScript to learn using useReducer hook.",
         "technologies": ["React", "JavaScript"],
         "url": "https://vanphung3792.github.io/todo-list/",
-        "imgUrl": "./portfolio/todoList.jpg",
+        "imgUrl": "./images/portfolio/todoList.jpg",
         "ghUrl": "https://github.com/vanphung3792/todo-list"
     },
     {

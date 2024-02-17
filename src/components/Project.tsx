@@ -37,7 +37,7 @@ const Project = ({ item }: ProjectProps) => {
             <img
                 src={
                     item.imgUrl === ''
-                        ? './portfolio/workInProgress.jpg'
+                        ? './images/portfolio/workInProgress.jpg'
                         : item.imgUrl
                 }
                 alt={item.title}
