@@ -13,9 +13,9 @@
         "title": "Calculator App",
         "description": "A simple calculator app built using React.",
         "technologies": ["React", "Tailwinds"],
-        "url": "",
-        "imgUrl": "",
-        "ghUrl": ""
+        "url": "https://vanphung3792.github.io/calculator-app/",
+        "imgUrl": "./images/portfolio/calculatorApp.jpg",
+        "ghUrl": "https://github.com/vanphung3792/calculator-app"
     },
     {
         "id": 3,
