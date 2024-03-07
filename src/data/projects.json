@@ -57,7 +57,7 @@
         "id": 7,
         "title": "Ecommerce Website",
         "description": "An ecommerce website built using React and Node.js.",
-        "technologies": ["React", "Node.js"],
+        "technologies": ["React", "TypeScript", "Tailwindcss"],
         "url": "",
         "imgUrl": "",
         "ghUrl": ""
