@@ -25,5 +25,41 @@
         "url": "",
         "imgUrl": "",
         "ghUrl": "https://github.com/vanphung3792/learning-english-app"
+    },
+    {
+        "id": 4,
+        "title": "Weather App",
+        "description": "An application to display weather information.",
+        "technologies": ["React", "JavaScript"],
+        "url": "",
+        "imgUrl": "",
+        "ghUrl": ""
+    },
+    {
+        "id": 5,
+        "title": "Image Gallery",
+        "description": "A project showcasing an image gallery.",
+        "technologies": ["React", "JavaScript"],
+        "url": "",
+        "imgUrl": "",
+        "ghUrl": ""
+    },
+    {
+        "id": 6,
+        "title": "Viet Corners",
+        "description": "A website showcasing Vietnamese cuisine and culture.",
+        "technologies": ["React", "TypeScript", "Tailwinds"],
+        "url": "",
+        "imgUrl": "",
+        "ghUrl": ""
+    },
+    {
+        "id": 7,
+        "title": "Ecommerce Website",
+        "description": "An ecommerce website built using React and Node.js.",
+        "technologies": ["React", "Node.js"],
+        "url": "",
+        "imgUrl": "",
+        "ghUrl": ""
     }
 ]
